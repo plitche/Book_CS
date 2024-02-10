@@ -1,4 +1,4 @@
-package ch1.design_parttern.policy_pattern;
+package design_parttern.policy_pattern;
 
 public class Item {
 

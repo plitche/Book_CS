@@ -1,4 +1,4 @@
-package ch1.design_parttern.policy_pattern;
+package design_parttern.policy_pattern;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package ch1.design_parttern.observer_pattern;
+package design_parttern.observer_pattern;
 
 public class Main {
 

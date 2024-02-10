@@ -1,4 +1,4 @@
-package ch1.design_parttern.factory_pattern;
+package design_parttern.factory_pattern;
 
 abstract class Coffee {
     public abstract int getPrice();
